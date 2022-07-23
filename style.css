@@ -148,7 +148,7 @@ footer small {
 }
 
 #about {
-  background-image: url(../images/bg-about.jpg);
+  background-image: url(https://github.com/Takumi-666/html_css_practice/blob/main/images/bg-about.jpg?raw=true);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -225,7 +225,7 @@ table {
 }
 
 #portfolio {
-  background-image: url(../images/bg-portfolio.jpg);
+  background-image: url(https://github.com/Takumi-666/html_css_practice/blob/main/images/bg-portfolio-sp.jpg?raw=true);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -263,7 +263,7 @@ sidebar h2 {
 }
 
 #photograph {
-  background-image: url(../images/bg-photograph.jpg);
+  background-image: url(https://github.com/Takumi-666/html_css_practice/blob/main/images/bg-photograph.jpg?raw=true);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -280,7 +280,7 @@ sidebar h2 {
 }
 
 #video {
-  background-image: url(../images/bg-video.jpg);
+  background-image: url(https://github.com/Takumi-666/html_css_practice/blob/main/images/bg-video.jpg?raw=true);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -288,7 +288,7 @@ sidebar h2 {
 }
 
 #contact {
-  background-image: url(../images/bg-contact.jpg);
+  background-image: url(https://github.com/Takumi-666/html_css_practice/blob/main/images/bg-contact.jpg?raw=true);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
