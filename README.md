@@ -5,5 +5,5 @@
 https://takumi-666.github.io/html_css_practice
 
 http://aquacougar6.sakura.ne.jp　
-　　　　　　↑
-こちらからでもアクセスできます。
+　　　　　　
+←　こちらからでもアクセスできます。
